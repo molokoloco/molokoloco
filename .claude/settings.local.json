@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(gh repo view molokoloco/molokoloco 2>&1)",
+      "PowerShell(if \\(-not $?\\) { \"NOT_EXISTS\" })"
+    ]
+  }
+}

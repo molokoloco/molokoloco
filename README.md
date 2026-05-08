@@ -84,12 +84,10 @@ Système d'émission de particules DOM — factory configurable pour effets visu
 
 ---
 
-## ✍️ Blog & newsletter
+## ✍️ Blogging
 
 📰 **La Gueznet IA** — ma newsletter hebdo sur l'IA appliquée au web et au business local  
 → [julienweb.fr/blog](https://julienweb.fr/blog)
-
-🎙️ **Café IA** — meetup mensuel que j'anime à Pantin (93) sur l'IA générative pour les pros
 
 ---
 
