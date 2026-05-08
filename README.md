@@ -1,4 +1,4 @@
-# 👋 Julien Guézennec — `molokoloco`
+# Julien Guézennec — `molokoloco`
 
 [![Webmaster](https://img.shields.io/badge/webmaster-25%20ans%20d'exp-5A4095?style=flat-square)](https://julienweb.fr)
 [![Node.js](https://img.shields.io/badge/node.js-automation%20%26%20APIs-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
@@ -10,7 +10,7 @@
 > **CODE + DESIGN + CONTENU + FORMATION**  
 > Un seul interlocuteur pour tous vos besoins digitaux — depuis Pantin (93), Île-de-France.
 
-## 🧠 Qui suis-je ?
+## Qui suis-je ?
 
 Développeur web indépendant depuis **1998**, Ingénieur Multimédia (CNAM, niv. 7), ex-Ingénieur Internet chez **Bouygues Telecom** (14 ans, Trophée de l'Innovation 2013).  
 Co-organisateur de **ParisJS & Best of Web** pendant 6 ans (100–500 participants/soirée).
@@ -27,7 +27,7 @@ Aujourd'hui je gère **JulienWeb.fr**, mon studio web freelance spécialisé dan
 | **Google Ads** | Campagnes Search, remarketing, suivi GA4 / GTM |
 
 
-## 🔧 Stack technique
+## Stack technique
 
 ```
 Front-end   → HTML5 · CSS3 · JS · React · Vue.js · Elementor Pro
@@ -38,7 +38,7 @@ IA / LLM    → Claude · OpenAI · Groq · Gemini · Prompt Engineering
 Env.        → Windows + WSL2 · VS Code · Chrome DevTools
 ```
 
-## 🚀 Projets publics notables
+## Projets publics notables
 
 ### [`lead-scraper-pro`](https://github.com/molokoloco/lead-scraper-pro)
 Pipeline industriel de prospection B2B — scraping multi-sources (PagesJaunes, Google Maps, Pappers, Instagram), déduplication, enrichissement email/phone/Facebook, export CSV Mailchimp-ready.  
@@ -60,12 +60,12 @@ Interface de vérification de fuite de données (Have I Been Pwned API) avec Goo
 Système d'émission de particules DOM — factory configurable pour effets visuels légers.  
 `jQuery` · `CSS animations`
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=molokoloco&show_icons=true&theme=dark&hide_border=true&title_color=5A4095&icon_color=1E91D4&text_color=ffffff&bg_color=0d1117)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molokoloco&layout=compact&theme=dark&hide_border=true&title_color=5A4095&text_color=ffffff&bg_color=0d1117)
 
-## 🏆 Distinctions
+## Distinctions
 
 - 🏅 **Trophée de l'Innovation Bouygues Telecom — 2013**
 - 🇫🇷 **Activateur France Num** — référencé DGE (ministère de l'Économie)
@@ -73,12 +73,12 @@ Système d'émission de particules DOM — factory configurable pour effets visu
 - 🎤 **Co-organisateur ParisJS / Best of Web** — 6 ans, 500+ participants/soirée
 - 🎓 **Formateur numérique** — HETIC, CIFACOM, IESA Multimédia, PEAJ
 
-## ✍️ Blogging
+## Blogging
 
-📰 **La Gueznet IA** — ma newsletter hebdo sur l'IA appliquée au web et au business local  
+**La Gueznet IA** — ma newsletter hebdo sur l'IA appliquée au web et au business local  
 → [julienweb.fr/blog](https://julienweb.fr/blog)
 
-## 📬 Me contacter
+## Me contacter
 
 | | |
 |---|---|
@@ -88,7 +88,7 @@ Système d'émission de particules DOM — factory configurable pour effets visu
 | CodePen | [codepen.io/molokoloco](https://codepen.io/molokoloco) |
 | Localisation | Pantin (93500), Île-de-France — télétravail & déplacements France OK |
 
-> 💡 **Freelance disponible** pour missions web, automatisation, formation IA ou conseil digital.  
+> **Freelance disponible** pour missions web, automatisation, formation IA ou conseil digital.  
 > 👉 [julienweb.fr/contact](https://julienweb.fr/contact)
 
 ---
