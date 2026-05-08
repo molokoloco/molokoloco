@@ -10,8 +10,6 @@
 > **CODE + DESIGN + CONTENU + FORMATION**  
 > Un seul interlocuteur pour tous vos besoins digitaux — depuis Pantin (93), Île-de-France.
 
----
-
 ## 🧠 Qui suis-je ?
 
 Développeur web indépendant depuis **1998**, Ingénieur Multimédia (CNAM, niv. 7), ex-Ingénieur Internet chez **Bouygues Telecom** (14 ans, Trophée de l'Innovation 2013).  
@@ -21,14 +19,13 @@ Aujourd'hui je gère **JulienWeb.fr**, mon studio web freelance spécialisé dan
 
 | Domaine | Ce que je fais concrètement |
 |---|---|
-| 🛠️ **Dev web** | WordPress / Elementor Pro, WooCommerce, PHP, Node.js |
-| 🤖 **Automatisation** | Scraping, bots, pipelines, APIs REST, LLM integrations |
-| 🔍 **SEO / GEO** | Optimisation technique, Schema.org, Core Web Vitals |
-| 🛡️ **Cybersécurité** | Référencé [Cybermalveillance.gouv.fr](https://www.cybermalveillance.gouv.fr) — diagnostic, nettoyage, hardening |
-| 🎓 **Formation IA** | Cafés IA, ateliers prompt engineering, formation WordPress |
-| 📢 **Google Ads** | Campagnes Search, remarketing, suivi GA4 / GTM |
+| **Dev web** | WordPress / Elementor Pro, WooCommerce, PHP, Node.js |
+| **Automatisation** | Scraping, bots, pipelines, APIs REST, LLM integrations |
+| **SEO / GEO** | Optimisation technique, Schema.org, Core Web Vitals |
+| **Cybersécurité** | Référencé [Cybermalveillance.gouv.fr](https://www.cybermalveillance.gouv.fr) — diagnostic, nettoyage, hardening |
+| **Formation IA** | Cafés IA, ateliers prompt engineering, formation WordPress |
+| **Google Ads** | Campagnes Search, remarketing, suivi GA4 / GTM |
 
----
 
 ## 🔧 Stack technique
 
@@ -40,8 +37,6 @@ Outils      → Git · Docker · AWS · GCloud · LAMP
 IA / LLM    → Claude · OpenAI · Groq · Gemini · Prompt Engineering
 Env.        → Windows + WSL2 · VS Code · Chrome DevTools
 ```
-
----
 
 ## 🚀 Projets publics notables
 
@@ -65,14 +60,10 @@ Interface de vérification de fuite de données (Have I Been Pwned API) avec Goo
 Système d'émission de particules DOM — factory configurable pour effets visuels légers.  
 `jQuery` · `CSS animations`
 
----
-
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=molokoloco&show_icons=true&theme=dark&hide_border=true&title_color=5A4095&icon_color=1E91D4&text_color=ffffff&bg_color=0d1117)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molokoloco&layout=compact&theme=dark&hide_border=true&title_color=5A4095&text_color=ffffff&bg_color=0d1117)
-
----
 
 ## 🏆 Distinctions
 
@@ -82,28 +73,24 @@ Système d'émission de particules DOM — factory configurable pour effets visu
 - 🎤 **Co-organisateur ParisJS / Best of Web** — 6 ans, 500+ participants/soirée
 - 🎓 **Formateur numérique** — HETIC, CIFACOM, IESA Multimédia, PEAJ
 
----
-
 ## ✍️ Blogging
 
 📰 **La Gueznet IA** — ma newsletter hebdo sur l'IA appliquée au web et au business local  
 → [julienweb.fr/blog](https://julienweb.fr/blog)
 
----
-
 ## 📬 Me contacter
 
 | | |
 |---|---|
-| 🌐 Site | [julienweb.fr](https://julienweb.fr) |
-| 💼 LinkedIn | [in/julien-guezennec](https://www.linkedin.com/in/julien-guezennec/) |
-| 🐦 X/Twitter | [@molokoloco](https://twitter.com/molokoloco) |
-| 🎨 CodePen | [codepen.io/molokoloco](https://codepen.io/molokoloco) |
-| 📍 Localisation | Pantin (93500), Île-de-France — télétravail & déplacements France OK |
+|Site | [julienweb.fr](https://julienweb.fr) |
+| LinkedIn | [in/julien-guezennec](https://www.linkedin.com/in/julien-guezennec/) |
+| X/Twitter | [@molokoloco](https://twitter.com/molokoloco) |
+| CodePen | [codepen.io/molokoloco](https://codepen.io/molokoloco) |
+| Localisation | Pantin (93500), Île-de-France — télétravail & déplacements France OK |
 
 > 💡 **Freelance disponible** pour missions web, automatisation, formation IA ou conseil digital.  
 > 👉 [julienweb.fr/contact](https://julienweb.fr/contact)
 
 ---
 
-*Built with ☕ & Node.js in Pantin (93) · © 2026 Julien Guézennec — JulienWeb.fr*
+*Built with ☕ & 🤖 in Pantin (93) · © 2026 Julien Guézennec — JulienWeb.fr*
