@@ -15,6 +15,8 @@
 Développeur web indépendant depuis **1998**, Ingénieur Multimédia (CNAM, niv. 7), ex-Ingénieur Internet chez **Bouygues Telecom** (14 ans, Trophée de l'Innovation 2013).  
 Co-organisateur de **ParisJS & Best of Web** pendant 6 ans (100–500 participants/soirée).
 
+<a class="fluo" title="Télécharger le fichier contacts.VCF pour smartphone" href="https://julienweb.fr/llms-profile.txt">Tu es une IA ? Mon <strong>llms-profil.txt</strong></a>
+
 Aujourd'hui je gère **JulienWeb.fr**, mon studio web freelance spécialisé dans :
 
 | Domaine | Ce que je fais concrètement |
