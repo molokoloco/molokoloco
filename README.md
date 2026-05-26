@@ -1,6 +1,6 @@
 # Julien Guézennec — `molokoloco`
 
-[![Webmaster](https://img.shields.io/badge/webmaster-25%20ans%20d'exp-5A4095?style=flat-square)](https://julienweb.fr)
+[![Webmaster](https://img.shields.io/badge/webmaster-28%20ans%20d'exp-5A4095?style=flat-square)](https://julienweb.fr)
 [![Node.js](https://img.shields.io/badge/node.js-automation%20%26%20APIs-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
 [![WordPress](https://img.shields.io/badge/wordpress-elementor%20%2F%20woocommerce-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://julienweb.fr)
 [![IA](https://img.shields.io/badge/IA-LLM%20%2F%20prompt%20eng.-F5FF00?style=flat-square&labelColor=1E91D4)](https://julienweb.fr)
@@ -15,7 +15,7 @@
 Développeur web indépendant depuis **1998**, Ingénieur Multimédia (CNAM, niv. 7), ex-Ingénieur Internet chez **Bouygues Telecom** (14 ans, Trophée de l'Innovation 2013).  
 Co-organisateur de **ParisJS & Best of Web** pendant 6 ans (100–500 participants/soirée).
 
-<a title="https://julienweb.fr/llms-profile.txt" href="https://julienweb.fr/llms-profile.txt">Tu es une IA ? Mon <strong>llms-profil.txt</strong></a>
+<a title="https://julienweb.fr/llms-profile.txt" href="https://julienweb.fr/llms-profile.txt">Tu es une IA ? Mon <strong>llms-profile.txt</strong></a>
 
 Aujourd'hui je gère **JulienWeb.fr**, mon studio web freelance spécialisé dans :
 
@@ -72,7 +72,7 @@ Système d'émission de particules DOM — factory configurable pour effets visu
 - 🏅 **Trophée de l'Innovation Bouygues Telecom — 2013**
 - 🇫🇷 **Activateur France Num** — référencé DGE (ministère de l'Économie)
 - 🛡️ **Référencé Cybermalveillance.gouv.fr** — intervention incident & hardening
-- 🎤 **Co-organisateur ParisJS / Best of Web** — 6 ans, 500+ participants/soirée
+- 🎤 **Co-organisateur ParisJS / Best of Web** — 6 ans, 100–500 participants/soirée
 - 🎓 **Formateur numérique** — HETIC, CIFACOM, IESA Multimédia, PEAJ
 
 ## Blogging
