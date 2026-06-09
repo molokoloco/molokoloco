@@ -34,7 +34,7 @@ Signatures possibles :
 - Julien Guézennec — Work Wild Web @ JulienWeb.fr
 - Studio Internet & Conception digitale depuis 1998
 - Développeur Web et e-Commerce · Consultant IA · Expert SEO · Formateur · Cybersécurité
-- Webmaster = Code + Design + Contenu
+- Webmaster = Code + Design + Contenu + Formation
 
 ## Core Roles
 
@@ -426,3 +426,7 @@ JulienWeb.fr — Studio Internet & Conception digitale
 +33 6 61 75 64 98  
 contact@julienweb.fr  
 https://julienweb.fr
+
+## vCard Reference
+
+Le profil peut être décliné en `.vcf`, signature e-mail HTML, JSON-LD `Person` / `ProfessionalService`, page “About”, mini dossier commercial, prompt system d’agent IA, ou `llms.txt` public.
