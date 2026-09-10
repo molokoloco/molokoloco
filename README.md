@@ -75,9 +75,14 @@ Système d'émission de particules DOM — factory configurable pour effets visu
 - 🎤 **Co-organisateur ParisJS / Best of Web** — 6 ans, 100–500 participants/soirée
 - 🎓 **Formateur numérique** — HETIC, CIFACOM, IESA Multimédia, PEAJ
 
+## Ressources IA en libre accès
+
+Six documents tirés de ma formation « Initiation à l'IA », à lire en ligne ou en PDF, libres de partage : les huit gestes, l'antisèche des prompts, le glossaire (50 mots), 159 usages, un annuaire de plus de cent outils testés, l'aide-mémoire Claude.  
+→ [julienweb.fr/ressources-ia](https://julienweb.fr/ressources-ia/)
+
 ## Blogging
 
-**La Gueznet IA** — ma newsletter hebdo sur l'IA appliquée au web et au business local  
+**La Gueznet IA** — ma newsletter mensuelle sur l'IA appliquée au web et au business local  
 → [julienweb.fr/blog](https://julienweb.fr/blog)
 
 ## Me contacter
