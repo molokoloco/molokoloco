@@ -77,7 +77,7 @@ Système d'émission de particules DOM — factory configurable pour effets visu
 
 ## Ressources IA en libre accès
 
-Six documents tirés de ma formation « Initiation à l'IA », à lire en ligne ou en PDF, libres de partage : les huit gestes, l'antisèche des prompts, le glossaire (50 mots), 159 usages, un annuaire de plus de cent outils testés, l'aide-mémoire Claude.  
+Sept documents tirés de ma formation « Initiation à l'IA », à lire en ligne ou en PDF, libres de partage : les huit gestes, l'antisèche des prompts, trois prompts pour la photo, le glossaire (50 mots), 159 usages, un annuaire de plus de cent outils testés, l'aide-mémoire Claude.  
 → [julienweb.fr/ressources-ia](https://julienweb.fr/ressources-ia/)
 
 ## Blogging
