@@ -75,6 +75,11 @@ Système d'émission de particules DOM — factory configurable pour effets visu
 - 🎤 **Co-organisateur ParisJS / Best of Web** — 6 ans, 100–500 participants/soirée
 - 🎓 **Formateur numérique** — HETIC, CIFACOM, IESA Multimédia, PEAJ
 
+## Un llms-profile.txt pour votre site
+
+Le `llms.txt` dit ce que fait un site, le `llms-full.txt` donne son contenu, le `llms-profile.txt` dit qui l'écrit et comment les IA doivent en parler (bios, consignes, bloc JSON).  
+→ Modèle vierge à copier : [`llms-profil.template.md`](llms-profil.template.md) · exemple rempli : [`llms-profil.md`](llms-profil.md) · méthode : [la pile llms complète](https://julienweb.fr/blog/llms-txt-full-txt-profil-geo-wordpress/10451/)
+
 ## Ressources IA en libre accès
 
 Sept documents tirés de ma formation « Initiation à l'IA », à lire en ligne ou en PDF, libres de partage : les huit gestes, l'antisèche des prompts, trois prompts pour la photo, le glossaire (50 mots), 159 usages, un annuaire de plus de cent outils testés, l'aide-mémoire Claude.  

@@ -95,6 +95,7 @@ Signatures possibles :
 
 ### Formation & accompagnement
 
+- Formation IA en équipe pour TPE et PME (2 jours, sur site en Île-de-France ou à distance)
 - Formation WordPress
 - Formation HTML/CSS/JavaScript
 - Sensibilisation SEO, UX, contenus, IA
@@ -284,6 +285,35 @@ Champs déjà couverts dans son parcours :
 
 - Activateur France Num
 - Prestataire référencé Cybermalveillance.gouv.fr
+
+<!-- competences:auto — généré depuis ops/competences/competences.json, ne pas éditer à la main -->
+### Compétences et preuves publiées
+
+- **Création et refonte de site** — service : https://julienweb.fr/services-julienweb-fr/creation-refonte-de-site/
+  - À lire : [Refonte d'un site Elementor avec l'IA : démo et méthode](https://julienweb.fr/realisations-clients/refonte-site-web-elementor-ia-demo-et-strategie-julienweb-fr/8607/) · [Le design system de julienweb.fr](https://julienweb.fr/blog/design-system-wordpress-palette-typographie-elementor/9331/) · [Claude Code en copilote WordPress : audit SEO et métas Yoast](https://julienweb.fr/blog/claude-code-copilote-wordpress-audit-seo-wiki-ia/9149/)
+  - Cas concrets : [Laurent Le Goff, luthier : lancement du site](https://julienweb.fr/realisations-clients/lancement-du-site-de-laurent-le-goff-architecte-du-son-manouche/7947/) · [Studio DaDCom : portfolio d'un artiste visuel](https://julienweb.fr/realisations-clients/studio-dadcom-un-portfolio-digital-a-la-hauteur-dun-artiste-visuel/5931/)
+- **E-commerce** — service : https://julienweb.fr/services-julienweb-fr/site-e-commerce-woocommerce-prestashop-shopify/
+  - À lire : [Bouton de rétractation : l'obligation e-commerce 2026](https://julienweb.fr/blog/bouton-de-retractation/11823/) · [Mettre un site en pause sans le casser : l'interrupteur .htaccess](https://julienweb.fr/blog/mettre-site-wordpress-en-pause-htaccess/11426/) · [Guide de sauvegarde d'un site web](https://julienweb.fr/cours-formations/guide-sauvegarde-site-web/3914/)
+  - Cas concrets : [Balanzan Nettoyage : création du site](https://julienweb.fr/realisations-clients/creation-du-site-web-de-balanzan-nettoyage/5945/) · [ONG All Citizens : création du site](https://julienweb.fr/realisations-clients/creation-du-site-internet-de-long-all-citizens/5962/)
+- **IA et automatisation** — service : https://julienweb.fr/services-julienweb-fr/consultant-ia-automatisation-pme/
+  - À lire : [Ce qu'on peut faire avec l'IA : 159 choses à lui demander](https://julienweb.fr/blog/ce-qu-on-peut-faire-avec-l-ia/11677/) · [60 skills Claude Code pour un freelance solo](https://julienweb.fr/blog/skills-claude-code-freelance-solo/11120/) · [Coffre-fort administratif et IA : un agent pour ses papiers](https://julienweb.fr/blog/coffre-fort-admin-souverainete-donnees/10658/)
+  - Cas concrets : [Un agent IA qui postule avec moi, pas à ma place](https://julienweb.fr/blog/automatiser-recherche-emploi-ia/11109/) · [Lead Scraper Pro : prospection B2B automatisée](https://julienweb.fr/blog/lead-scraper-pro-prospection-b2b-automatisee/10046/)
+- **SEO et GEO** — service : https://julienweb.fr/services-julienweb-fr/visibilite-seo-geo/
+  - À lire : [llms.txt, llms-full.txt, llms-profil.txt : la pile complète](https://julienweb.fr/blog/llms-txt-full-txt-profil-geo-wordpress/10451/) · [18 agents pour un audit SEO : ce qui change dans le métier](https://julienweb.fr/blog/claude-seo-18-agents-audit-juin-2026/10971/) · [Créer son llms.txt avec Yoast SEO et Claude](https://julienweb.fr/blog/creer-llms-txt-yoast-seo-wordpress-claude-ia/10139/)
+  - Cas concrets : [NSA Conseil Formation : création du site](https://julienweb.fr/realisations-clients/julienweb-fr-cree-le-site-web-de-nsa-conseil-formation-a-pantin/5816/) · [Nadia Rabhi, photographe : un site tenu seule](https://julienweb.fr/portraits/nadia-rabhi-photographe-plasticienne/11937/)
+- **Formation** — service : https://julienweb.fr/services-julienweb-fr/formations-wordpress-google-ia/
+  - À lire : [Glossaire de l'IA et aide-mémoire Claude, à télécharger](https://julienweb.fr/blog/glossaire-ia-50-mots-aide-memoire-claude/11665/) · [IA sans censure : la démo que je fais en salle](https://julienweb.fr/intelligence-artificielle/ia-sans-censure-modeles-abliterated-alignement/11872/) · [Maîtrisez WordPress en 4 jours](https://julienweb.fr/cours-formations/maitrisez-wordpress-en-4-jours/4147/)
+  - Cas concrets : [Organisme de formation déclaré, NDA 11 93 12613 93](https://julienweb.fr/cours-formations/julienweb-organisme-formation-nda-partenariat-nsa/10929/) · [NSA Conseil Formation : création du site](https://julienweb.fr/realisations-clients/julienweb-fr-cree-le-site-web-de-nsa-conseil-formation-a-pantin/5816/)
+- **Design et identité** — service : https://julienweb.fr/services-julienweb-fr/charte-graphique-logo-ui-ux-design-identite-visuelle/
+  - À lire : [Le design system de julienweb.fr](https://julienweb.fr/blog/design-system-wordpress-palette-typographie-elementor/9331/) · [Une signature Gmail en HTML, pas à pas](https://julienweb.fr/blog/creer-signature-gmail-html/10357/) · [Refonte d'un site Elementor avec l'IA : démo et méthode](https://julienweb.fr/realisations-clients/refonte-site-web-elementor-ia-demo-et-strategie-julienweb-fr/8607/)
+  - Cas concrets : [Studio DaDCom : portfolio d'un artiste visuel](https://julienweb.fr/realisations-clients/studio-dadcom-un-portfolio-digital-a-la-hauteur-dun-artiste-visuel/5931/) · [Laurent Le Goff, luthier : lancement du site](https://julienweb.fr/realisations-clients/lancement-du-site-de-laurent-le-goff-architecte-du-son-manouche/7947/)
+- **Maintenance et dépannage** — service : https://julienweb.fr/services-julienweb-fr/assistance-support-et-maintenance-site-serveur-intervention-urgence/
+  - À lire : [Mettre un site en pause sans le casser : l'interrupteur .htaccess](https://julienweb.fr/blog/mettre-site-wordpress-en-pause-htaccess/11426/) · [Guide de sauvegarde d'un site web](https://julienweb.fr/cours-formations/guide-sauvegarde-site-web/3914/) · [Claude ne s'ouvre pas sous Windows : le diagnostic complet](https://julienweb.fr/blog/claude-desktop-windows-ecran-blanc-bug-msix/11557/)
+  - Cas concrets : [Ma clé USB d'intervention sur poste compromis](https://julienweb.fr/blog/cle-first-responder-kit-intervention-cyber/10850/) · [Mon guide d'optimisation Windows devenu agent IA](https://julienweb.fr/cours-formations/pc-optim-diagnostic-windows-ia-claude-code/10803/)
+- **Cybersécurité** — service : https://julienweb.fr/cybersecurite/
+  - À lire : [« Votre PC est bloqué, appelez ce numéro » : le malvertising](https://julienweb.fr/blog/malvertising-publicite-piegee-faux-depanneur/11495/) · [L'arnaque au faux conseiller, décryptée](https://julienweb.fr/blog/arnaque-faux-conseiller-prise-en-main-distance/10261/) · [Pourquoi je publie mon arsenal cyber en open source](https://julienweb.fr/blog/outils-open-source-reponse-incident/10873/)
+  - Cas concrets : [« On me surveille au travail » : ce que j'ai trouvé sur le poste](https://julienweb.fr/blog/surveillance-employeur-ordinateur-personnel/10851/) · [Ma clé USB d'intervention sur poste compromis](https://julienweb.fr/blog/cle-first-responder-kit-intervention-cyber/10850/)
+<!-- /competences:auto -->
 
 ### Présence publique
 
