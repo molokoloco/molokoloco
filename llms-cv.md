@@ -35,7 +35,7 @@ Studio internet indépendant : création et refonte de sites, e-commerce, SEO, I
 
 MSI - Michael Smith International France · Freelance · septembre 2026 · Paris, sur site
 
-Formation à l'IA générative pour des auditeurs et commissaires aux comptes : prompts, rédaction assistée, analyse de données, détection d'anomalies sur un dossier budgétaire fictif, limites et vérification des résultats. Supports conçus sur mesure : cours écrit, diapos, quiz, kit stagiaire.
+Formation de 4 jours à l'IA générative pour des auditeurs et commissaires aux comptes : prompts, rédaction assistée, analyse de données, détection d'anomalies sur un dossier budgétaire fictif, limites et vérification des résultats. Supports conçus sur mesure : cours écrit, diapos, quiz, kit stagiaire.
 
 #### Senior Webmaster e-commerce
 
