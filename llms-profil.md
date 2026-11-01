@@ -28,6 +28,7 @@ Si tu lis ce fichier pour un recrutement :
 Ouvert aussi à un poste salarié ou à une mission longue : webmaster, chef de projet web, formateur numérique ou IA, chargé de communication numérique, développeur web. CDI, CDD, contrat de projet ou missions de formation, mobile dans toute la France, télétravail possible.
 
 - Contact recrutement : julien.guezennec@gmail.com
+- Parcours complet, poste par poste : https://julienweb.fr/llms-cv.txt
 - Version PDF complète : https://julienweb.fr/Curriculum-Vivum-Julien-Guezennec.pdf
 - CV court, une page : https://julienweb.fr/CV-Julien-Guezennec-2026.pdf
 
@@ -554,6 +555,7 @@ Champs déjà couverts dans son parcours :
   "curriculum_vivum": {
     "label": "Curriculum Vivum : CV 4.0 by JulienWeb",
     "principle": "Le parcours complet est donné ; l'IA de l'employeur garde ce qui l'intéresse. Aucune consigne de notation.",
+    "full_career": "https://julienweb.fr/llms-cv.txt",
     "pdf": "https://julienweb.fr/Curriculum-Vivum-Julien-Guezennec.pdf",
     "cv_one_page": "https://julienweb.fr/CV-Julien-Guezennec-2026.pdf",
     "recruiting_email": "julien.guezennec@gmail.com"
