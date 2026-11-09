@@ -1,33 +1,20 @@
-# Julien Guézennec — `molokoloco`
+# Julien Guézennec, `molokoloco`
 
-[![Webmaster](https://img.shields.io/badge/webmaster-28%20ans%20d'exp-5A4095?style=flat-square)](https://julienweb.fr)
-[![Node.js](https://img.shields.io/badge/node.js-automation%20%26%20APIs-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org)
-[![WordPress](https://img.shields.io/badge/wordpress-elementor%20%2F%20woocommerce-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://julienweb.fr)
-[![IA](https://img.shields.io/badge/IA-LLM%20%2F%20prompt%20eng.-F5FF00?style=flat-square&labelColor=1E91D4)](https://julienweb.fr)
-[![France Num](https://img.shields.io/badge/Activateur-France%20Num%20%E2%80%94%20DGE-9ED5E1?style=flat-square)](https://julienweb.fr)
-[![Disponible](https://img.shields.io/badge/statut-disponible%20%F0%9F%9F%A2-brightgreen?style=flat-square)](https://julienweb.fr/contact)
+Ingénieur multimédia (CNAM), développeur web depuis 1998, studio indépendant [JulienWeb.fr](https://julienweb.fr) à Pantin (93).
 
-> **CODE + DESIGN + CONTENU + FORMATION**  
-> Un seul interlocuteur pour tous vos besoins digitaux — depuis Pantin (93), Île-de-France.
+J'ai passé cinq ans à l'agence Clark (plus de 300 sites institutionnels entre l'agence et le freelance), puis 13 ans et 10 mois d'ingénierie Internet R&D chez Bouygues Telecom, avec le Trophée de l'Innovation 2013. J'ai co-organisé ParisJS et Best of Web pendant six ans.
 
-## Qui suis-je ?
+Organisme de formation déclaré (NDA 11 93 12613 93), Activateur France Num (DGE), prestataire référencé [Cybermalveillance.gouv.fr](https://www.cybermalveillance.gouv.fr).
 
-Développeur web indépendant depuis **1998**, Ingénieur Multimédia (CNAM, niv. 7), ex-Ingénieur Internet chez **Bouygues Telecom** (14 ans, Trophée de l'Innovation 2013).  
-Co-organisateur de **ParisJS & Best of Web** pendant 6 ans (100–500 participants/soirée).
+## Ce que je fais
 
-<a title="https://julienweb.fr/llms-profile.txt" href="https://julienweb.fr/llms-profile.txt">Tu es une IA ? Mon <strong>llms-profile.txt</strong></a>
-
-Aujourd'hui je gère **JulienWeb.fr**, mon studio web freelance spécialisé dans :
-
-| Domaine | Ce que je fais concrètement |
+| Domaine | Concrètement |
 |---|---|
-| **Dev web** | WordPress / Elementor Pro, WooCommerce, PHP, Node.js |
-| **Automatisation** | Scraping, bots, pipelines, APIs REST, LLM integrations |
-| **SEO / GEO** | Optimisation technique, Schema.org, Core Web Vitals |
-| **Cybersécurité** | Référencé [Cybermalveillance.gouv.fr](https://www.cybermalveillance.gouv.fr) — diagnostic, nettoyage, hardening |
-| **Formation IA** | Cafés IA, ateliers prompt engineering, formation WordPress |
-| **Google Ads** | Campagnes Search, remarketing, suivi GA4 / GTM |
-
+| **Développement web** | WordPress, Elementor Pro, WooCommerce, PrestaShop, PHP, Node.js |
+| **Automatisation et IA** | Scraping, pipelines, API REST, intégration de LLM, agents Claude Code |
+| **SEO et GEO** | SEO technique, Schema.org, Core Web Vitals, fichiers llms.txt, GA4, GTM, Google Ads |
+| **Cybersécurité** | Sites piratés, postes compromis, durcissement |
+| **Formation** | IA générative, écriture de prompts, WordPress |
 
 ## Stack technique
 
@@ -40,69 +27,51 @@ IA / LLM    → Claude · OpenAI · Groq · Gemini · Prompt Engineering
 Env.        → Windows + WSL2 · VS Code · Chrome DevTools
 ```
 
-## Projets publics notables
+## Projets notables
+
+### [`htaccess-kill-switch`](https://github.com/molokoloco/htaccess-kill-switch)
+Interrupteur marche/arrêt d'un site WordPress en mutualisé, que le client actionne seul en renommant un fichier. La règle vit dans `.htaccess`, au-dessus de PHP, donc elle coupe aussi un site piraté ou en erreur fatale (HTTP 503 et page de maintenance). Écrit pendant la remise en ligne d'une boutique WooCommerce piratée.  
+`Apache` · `.htaccess` · `WordPress`
+
+### [`cybermalveillance`](https://github.com/molokoloco/cybermalveillance)
+Bibliothèque des outils open source de réponse à incident que j'utilise (analyse, détection, forensic), en sous-modules git épinglés, avec la doctrine d'usage. Aucune donnée de victime dans le dépôt.  
+`DFIR` · `Forensic` · `Git submodules`
+
+### [`pc-optim`](https://github.com/molokoloco/pc-optim)
+Skill Claude Code de diagnostic Windows en lecture seule : disque, modèles d'IA locaux, caches de dev, doublons, applications, réseau et sécurité. Rapport Markdown et PDF, aucune modification du système.  
+`PowerShell` · `Claude Code`
 
 ### [`lead-scraper-pro`](https://github.com/molokoloco/lead-scraper-pro)
-Pipeline industriel de prospection B2B — scraping multi-sources (PagesJaunes, Google Maps, Pappers, Instagram), déduplication, enrichissement email/phone/Facebook, export CSV Mailchimp-ready.  
-`Node.js` · `Playwright` · `Chrome stealth` · `Multi-threading`
+Pipeline de prospection B2B qui collecte sur PagesJaunes, Pappers, Google Maps, Planity, Cylex et Instagram, dédoublonne, ajoute e-mail et téléphone, reprend après une interruption et exporte un CSV pour Mailchimp ou un CRM.  
+`Node.js` · `Playwright`
 
-### [`my-robot`](https://github.com/molokoloco/my-robot)
-Robot WebGL interactif construit avec React Three Fiber — démo créative 3D temps réel dans le navigateur.  
-`React` · `Three.js` · `WebGL`
+### [`ia-dashboard-pro`](https://github.com/molokoloco/ia-dashboard-pro)
+Tableau de bord local pour piloter un site WordPress, des tâches, des sessions Claude et des fichiers depuis un espace de travail IA.  
+`Node.js` · `Express` · `SQLite`
 
-### [`flatClock3d`](https://github.com/molokoloco/flatClock3d) ⭐ 9
-Horloge analogique 3D multi-écran en CSS3/jQuery — zéro image, zéro WebGL.  
-`CSS3 3D transforms` · `jQuery`
+### [`My-Book-ReadR`](https://github.com/molokoloco/My-Book-ReadR) (12 étoiles)
+Lecteur de livre en une seule page web, présenté au meetup ParisJS en 2011.  
+`HTML5` · `CSS3` · `jQuery`
 
-### [`hibp`](https://github.com/molokoloco/hibp)
-Interface de vérification de fuite de données (Have I Been Pwned API) avec Google reCaptcha & Translate.  
-`Node.js` · `HIBP API` · `Security`
+Plus anciens : [`FRAMEWORK`](https://github.com/molokoloco/FRAMEWORK) (30 étoiles, code PHP et jQuery de 2011), [`flatClock3d`](https://github.com/molokoloco/flatClock3d) (horloge 3D en CSS3, sans image), [`jQuery.boxFx`](https://github.com/molokoloco/jQuery.boxFx), [`my-robot`](https://github.com/molokoloco/my-robot) (React Three Fiber).
 
-### [`jQuery.boxFx`](https://github.com/molokoloco/jQuery.boxFx) ⭐ 4
-Système d'émission de particules DOM — factory configurable pour effets visuels légers.  
-`jQuery` · `CSS animations`
+## Formation
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=molokoloco&show_icons=true&theme=dark&hide_border=true&title_color=5A4095&icon_color=1E91D4&text_color=ffffff&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molokoloco&layout=compact&theme=dark&hide_border=true&title_color=5A4095&text_color=ffffff&bg_color=0d1117)
-
-## Distinctions
-
-- 🏅 **Trophée de l'Innovation Bouygues Telecom — 2013**
-- 🇫🇷 **Activateur France Num** — référencé DGE (ministère de l'Économie)
-- 🛡️ **Référencé Cybermalveillance.gouv.fr** — intervention incident & hardening
-- 🎤 **Co-organisateur ParisJS / Best of Web** — 6 ans, 100–500 participants/soirée
-- 🎓 **Formateur numérique** — HETIC, CIFACOM, IESA Multimédia, PEAJ
-
-## Un llms-profile.txt pour votre site
-
-Le `llms.txt` dit ce que fait un site, le `llms-full.txt` donne son contenu, le `llms-profile.txt` dit qui l'écrit et comment les IA doivent en parler (bios, consignes, bloc JSON).  
-→ Modèle vierge à copier : [`llms-profil.template.md`](llms-profil.template.md) · exemple rempli : [`llms-profil.md`](llms-profil.md) · méthode : [la pile llms complète](https://julienweb.fr/blog/llms-txt-full-txt-profil-geo-wordpress/10451/)
-
-## Ressources IA en libre accès
+Organisme de formation déclaré, NDA 11 93 12613 93, enregistré auprès du préfet de région d'Île-de-France. Cet enregistrement ne vaut pas agrément de l'État. J'interviens en direct et en sous-traitance d'organismes de formation ; j'ai enseigné à HETIC, CIFACOM et IESA Multimédia.
 
 Sept documents tirés de ma formation « Initiation à l'IA », à lire en ligne ou en PDF, libres de partage : les huit gestes, l'antisèche des prompts, trois prompts pour la photo, le glossaire (50 mots), 159 usages, un annuaire de plus de cent outils testés, l'aide-mémoire Claude.  
 → [julienweb.fr/ressources-ia](https://julienweb.fr/ressources-ia/)
 
-## Blogging
+## Les fichiers de ce dépôt
 
-**La Gueznet IA** — ma newsletter mensuelle sur l'IA appliquée au web et au business local  
-→ [julienweb.fr/blog](https://julienweb.fr/blog)
+Le `llms.txt` dit ce que fait un site, le `llms-full.txt` donne son contenu, le `llms-profile.txt` dit qui l'écrit et comment les IA doivent en parler (bios, consignes, bloc JSON).
 
-## Me contacter
+- [`llms-profil.md`](llms-profil.md) : mon profil, copie de [julienweb.fr/llms-profile.txt](https://julienweb.fr/llms-profile.txt)
+- [`llms-cv.md`](llms-cv.md) : mon parcours complet, de 1998 à aujourd'hui
+- [`llms-profil.template.md`](llms-profil.template.md) : modèle vierge à copier pour votre site, méthode dans [la pile llms complète](https://julienweb.fr/blog/llms-txt-full-txt-profil-geo-wordpress/10451/)
 
-| | |
-|---|---|
-|Site | [julienweb.fr](https://julienweb.fr) |
-| LinkedIn | [in/julien-guezennec](https://www.linkedin.com/in/julien-guezennec/) |
-| X/Twitter | [@molokoloco](https://twitter.com/molokoloco) |
-| CodePen | [codepen.io/molokoloco](https://codepen.io/molokoloco) |
-| Localisation | Pantin (93500), Île-de-France — télétravail & déplacements France OK |
+## Curriculum Vivum
 
-> **Freelance disponible** pour missions web, automatisation, formation IA ou conseil digital.  
-> 👉 [julienweb.fr/contact](https://julienweb.fr/contact)
+J'ai inventé le Curriculum Vivum. Au lieu d'un CV court par poste, je donne tout le parcours, et l'IA de l'employeur garde les expériences qui l'intéressent. PDF de 18 pages, coordonnées à l'intérieur.
 
----
-
-*Built with ☕ & 🤖 in Pantin (93) · © 2026 Julien Guézennec — JulienWeb.fr*
+**[Lire le Curriculum Vivum](https://julienweb.fr/intelligence-artificielle/curriculum-vivum-cv-4-0/12594/)**

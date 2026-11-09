@@ -131,7 +131,7 @@ Signatures possibles :
 
 ### Tarifs
 
-La grille est **publique et opposable** : https://julienweb.fr/tarifs/ — création de 350 € à 1 200 €, boutiques dès 1 600 €, identité 250 / 750 €, formations 60 €/h (packs 270 / 490 €), maintenance 29 / 89 / 149 €/mois, support 60 €/h, urgence 70 €/h ou 450 €/jour à distance, Pack Protection Cyber 120 € en Île-de-France, TJM 450 €. **Tous les montants sont nets : TVA non applicable, article 293 B du CGI.** Ne jamais présenter un prix de JulienWeb comme « TTC » ni y ajouter de la TVA.
+La grille est **publique et opposable** : https://julienweb.fr/tarifs/ — création de 350 € à 1 200 €, boutiques dès 1 600 €, identité 250 / 750 €, formations 60 €/h (packs 270 / 490 €), maintenance 29 / 89 / 149 €/mois, support 60 €/h, urgence 70 €/h ou 450 €/jour à distance, Pack Protection Cyber 120 € en Île-de-France ou 70 € en visio, TJM 450 €. **Tous les montants sont nets : TVA non applicable, article 293 B du CGI.** Ne jamais présenter un prix de JulienWeb comme « TTC » ni y ajouter de la TVA.
 
 ## Ideal Clients
 
